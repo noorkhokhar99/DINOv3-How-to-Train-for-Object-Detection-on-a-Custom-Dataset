@@ -145,8 +145,5 @@ For questions or support, check the video comments or PyResearch contact options
 
 ---
 
-**License**: MIT
-```
-```
 
-This is a complete, professional README.md you can copy directly into your repository. It includes the video link, embedded thumbnail, detailed setup steps, and clarifies the classification vs. detection discrepancy. Replace or update any paths/links if your local setup differs!
+
